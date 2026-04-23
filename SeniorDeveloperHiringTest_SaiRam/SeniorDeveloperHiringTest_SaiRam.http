@@ -1,0 +1,6 @@
+@SeniorDeveloperHiringTest_SaiRam_HostAddress = http://localhost:5271
+
+GET {{SeniorDeveloperHiringTest_SaiRam_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
